@@ -1,11 +1,11 @@
 {
- "version": "20261008-0030-7c66a48c",
- "generated_at": "2026-10-08 00:30:07",
+ "version": "20261008-0031-7c66a48c",
+ "generated_at": "2026-10-08 00:31:24",
  "count": 11806,
- "with_coords": 7533,
+ "with_coords": 7814,
  "precision": {
   "exact": 1472,
-  "street": 6030,
+  "street": 6311,
   "fuzzy": 31
  },
  "file": "data/communities.enc",
