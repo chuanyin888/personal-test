@@ -1,15 +1,16 @@
 {
- "version": "20261008-0021",
- "generated_at": "2026-10-08 00:21:31",
+ "version": "20261008-0029",
+ "generated_at": "2026-10-08 00:29:09",
  "count": 11806,
- "with_coords": 6765,
+ "with_coords": 7298,
  "precision": {
   "exact": 1472,
-  "street": 5262,
+  "street": 5795,
   "fuzzy": 31
  },
  "file": "data/communities.enc",
  "encrypted": true,
  "crypto": "AES-256-GCM",
- "size": 1648260
+ "size": 1661484,
+ "sha256": "82cee13f55b24a317524b4226e1265ab7e5296af69d545779025bb5d0b780baf"
 }
