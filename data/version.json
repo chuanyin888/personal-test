@@ -1,9 +1,16 @@
 {
  "version": "20261008-1157-e4e422e8",
- "generated_at": "2026-10-08 11:57:06",
+ "generated_at": "2026-10-08 11:57:42",
  "count": 11806,
- "with_coords": 0,
- "precision": {},
+ "with_coords": 9631,
+ "precision": {
+  "exact": 1472,
+  "street": 7754,
+  "town": 160,
+  "addr": 88,
+  "district": 126,
+  "fuzzy": 31
+ },
  "file": "data/communities.enc",
  "encrypted": true,
  "crypto": "AES-256-GCM",
